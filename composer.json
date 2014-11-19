@@ -1,0 +1,17 @@
+{
+    "name": "etenil/AssegaiEventCore",
+    "description": "An event manager and dispatcher for PHP.",
+    "keywords": ["event", "event manager", "assegai"],
+    "homepage": "http://github.com/Etenil/AssegaiEventCore",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume 'Etenil' Pasquet",
+            "email": "boss@etenil.net",
+            "homepage": "http://etenil.net"
+        }
+    ],
+    "require": {
+    }
+}
